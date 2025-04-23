@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost';
 $db   = 'crud_demo'; // Đảm bảo tên database chính xác
-$user = 'root';      // Thử với user khác nếu cần
-$pass = 'mysql';     // Mật khẩu MySQL của bạn (có thể là chuỗi rỗng '')
+$user = 'rua';      // Thử với user khác nếu cần
+$pass = 'RUA@12345';     // Mật khẩu MySQL của bạn (có thể là chuỗi rỗng '')
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
